@@ -19,10 +19,12 @@ In view of this, my Data Source for this project was the Learning Management Sys
 
 ## Tools Usage
 The following applications were installed for our lectures and will also be utilized for the duration of this project. The facilitators guided us thoroughly on the use of this applications during the course of the training to enable us get the best results in our Data Analysis journey.
-- Microsoft Excel [DOWNLOAD HERE](https://www.microsoft.com/en/microsoft-365/excel?market=af#Plans-pricing) 
+- Microsoft Excel [DOWNLOAD HERE](https://www.microsoft.com/en/microsoft-365/excel?market=af#Plans-pricing)
+  - Primarily used for organizing, calculating, and analyzing data through spreadsheets.
 - SQL Server Management Studio [DOWNLOAD HERE](https://learn.microsoft.com/en-us/ssms/install/install)
+  - Used to connect to and manage SQL Server instances, including creating, modifying, and deleting databases etc.
 - Power Business Integration (BI) [DOWNLOAD HERE](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-
+  - Used to transform and model that data, and then create interactive dashboards and reports to gain insights and make data-driven decisions.
 
 
 
