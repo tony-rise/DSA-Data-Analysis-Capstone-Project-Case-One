@@ -70,10 +70,12 @@ After a painstaking, Exploratory Data Analysis, I arrived at the following resul
 ## Recommendations
 I hereby recommend the following to guide product improvement, marketing strategies, and customer engagement.
 
-a.  For product improvement, I strongly recommend that the company make good use of product review and sales data to recognize products commonly purchased together and then propose      
-    bundle offerings to increase average order value.
-b.  Regarding marketing strategies, I am recommending that the company groups positive/negative reviews into segment by customer location, product categories etc, then tailor campaigns 
-    accordingly.
-c.  Finally on customer engagement, I hereby recommend that the company establishes a public 
+- For product improvement, I strongly recommend that the company make good use of product review and sales data to recognize products commonly purchased together and then propose      
+  bundle offerings to increase average order value.
+- Regarding marketing strategies, I am recommending that the company groups positive/negative reviews into segment by customer location, product categories etc, then tailor campaigns 
+  accordingly.
+- Finally on customer engagement, I hereby recommend that the company establishes an effective public platform/procedure to respond to reviews ratings lower than 3.00 atleast and profer    solution within 48hours. 
+
+
 
 
