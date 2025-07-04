@@ -45,7 +45,7 @@ Total Records: 1,465 Rows
 Total Fields: 16 columns
 
 
-## DATA CLEANING
+## Data Cleaning
 - I revieweed data structure (rows, columns, & headers (added filters to all headers)
 - Identify key fields: ID, rating, categories, etc.
 - Remove irrelevant columns
