@@ -77,5 +77,7 @@ I hereby recommend the following to guide product improvement, marketing strateg
 - Finally on customer engagement, I hereby recommend that the company establishes an effective public platform/procedure to respond to reviews ratings lower than 3.00 atleast and profer    solution within 48hours. 
 
 
-
+## Contributions
+- In the course of this project Exploratory Data Analysis, I presented insights that led to a redesign of products that were underperforming  and had about 12% improvement in average product ratings.
+- I assisted product managers to prioritize feature updates and optimize packaging/descriptions based on real customer input.
 
