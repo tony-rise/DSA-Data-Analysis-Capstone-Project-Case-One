@@ -67,6 +67,8 @@ This process involved the exploration of the Data Set that was made available on
 After a painstaking, Exploratory Data Analysis, I arrived at the following results: [DOWNLOAD HERE](https://limewire.com/d/zzyK8#y5GojZsUWi)
 
 
+
+
 ## Recommendations
 I hereby recommend the following to guide product improvement, marketing strategies, and customer engagement.
 
