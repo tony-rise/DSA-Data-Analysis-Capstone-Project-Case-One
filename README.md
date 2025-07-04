@@ -29,6 +29,13 @@ The following applications were installed for our lectures and was also be utili
   - Used to transform and model that data, and then create interactive dashboards and reports to gain insights and make data-driven decisions.
 
 
+## Project Structure
+Selected Case Study 1 (Amazon Product Review Analysis)
+
+### Case Study Overview
+I was working as a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. My team has been tasked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement. 
+
+
 ## Dataset Description
 The dataset contains information scraped from Amazon product pages, including: 
 • Product details: name, category, price, discount, and ratings 
@@ -60,6 +67,13 @@ This process involved the exploration of the Data Set that was made available on
 After a painstaking, Exploratory Data Analysis, I arrived at the following results: [DOWNLOAD HERE](https://limewire.com/d/zzyK8#y5GojZsUWi)
 
 
+## Recommendations
+I hereby recommend the following to guide product improvement, marketing strategies, and customer engagement.
 
+a.  For product improvement, I strongly recommend that the company make good use of product review and sales data to recognize products commonly purchased together and then propose      
+    bundle offerings to increase average order value.
+b.  Regarding marketing strategies, I am recommending that the company groups positive/negative reviews into segment by customer location, product categories etc, then tailor campaigns 
+    accordingly.
+c.  Finally on customer engagement, I hereby recommend that the company establishes a public 
 
 
