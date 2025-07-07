@@ -73,8 +73,8 @@ This process involved the exploration of the Data Set that was made available on
 
 
 ## Results (Dashboards)
-After a painstaking, Exploratory Data Analysis, I arrived at the following results: [DOWNLOAD HERE](https://limewire.com/d/zzyK8#y5GojZsUWi)
-## *_You can also access the Excel file document from the readme file_*
+After a painstaking, Exploratory Data Analysis, I arrived at the following results:
+## *_Kindly access the Excel file document from the readme file_*
 
 ## Recommendations
 I hereby recommend the following to guide product improvement, marketing strategies, and customer engagement.
