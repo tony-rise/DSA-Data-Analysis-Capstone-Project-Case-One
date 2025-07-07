@@ -73,7 +73,7 @@ This process involved the exploration of the Data Set that was made available on
 
 
 ## Results (Dashboards)
-After a painstaking, Exploratory Data Analysis, I arrived at the following results:
+After a painstaking, Exploratory Data Analysis, I arrived at the following results: [DONWLOAD HERE](https://limewire.com/d/zzyK8#y5GojZsUWi)
 ## *_Kindly access the Excel file document from the readme file_*
 
 ## Recommendations
